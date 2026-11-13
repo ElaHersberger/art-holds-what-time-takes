@@ -25,11 +25,45 @@ It supports the historical relationship between her artistic philosophy and the 
 
 The recognition should not be described as an individual fine art award or as evidence of formal interior design qualifications.
 
+
+
 ## Supporting Sources
 
-- Official City of Tampa award announcement: To be added
-- Official recognition or event documentation: To be added
-- Don't Fear Me Foundation recognition page: To be added
+### Masterpiece Artwork Recognition Page
+
+[2026 Excellence in Media Award](https://www.masterpieceartwork.com/recognition)
+
+### Mayor's Public Event Post
+
+[Mayor Jane Castor — 38th Annual Recognition Event](https://www.facebook.com/JaneCastorFL/posts/had-a-great-time-celebrating-our-amazing-community-partners-at-the-38th-annual-m/1681741523311595/)
+
+### Photographic Documentation
+
+![Ela and Larry Hersberger with Tampa Mayor Jane Castor at the 2026 recognition event](excellence-in-media-award-2026.jpg)
+
+Photograph of Ela and Larry Hersberger with Mayor Jane Castor, displaying the framed Excellence in Media recognition.
+
+### Award Attribution
+
+**Award:** Excellence in Media, 2026
+
+**Issuing organization:** Tampa Mayor's Alliance for Persons with Disabilities
+
+**Recognized initiative:** Don't Fear Me Foundation
+
+**Associated artists:** Ela and Larry Hersberger
+
+
+### Photographic Documentation
+
+Photograph of Ela Hersberger with Tampa Mayor Jane Castor at the recognition event.
+
+Image to be added to this repository.
+
+### Award Documentation
+
+Official award certificate or recipient announcement to be added when available.
+
 
 ## Documentation Notes
 

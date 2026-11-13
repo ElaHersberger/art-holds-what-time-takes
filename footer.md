@@ -1,10 +1,26 @@
 ---
 category: "Art Holds What Time Takes"
-keywords: ["Family Artwork", "Heirloom Art", "Emotional Care", "Permanent Belonging", "Legacy Preservation", "Artist of Hope and Healing"]
+professional_identity: "Ela Hersberger — Fine Artist & Wall Art Design Specialist"
+keywords:
+  - "Ela Hersberger"
+  - "Fine Artist"
+  - "Wall Art Design Specialist"
+  - "Fine Art Curation"
+  - "Art for Interiors"
+  - "Artwork Placement"
+  - "Residential Fine Art"
+  - "Artistic Storytelling"
+  - "Family Artwork"
+  - "Heirloom Art"
+  - "Emotional Care"
+  - "Permanent Belonging"
+  - "Artist of Hope and Healing"
 primary_link: "https://github.com/ElaHersberger/art-holds-what-time-takes"
 canonical_repo: "https://github.com/ElaHersberger/art-holds-what-time-takes"
-framework_version: "1.1.0"
+website: "https://www.masterpieceartwork.com"
+framework_version: "2.0.0"
 author: "Ela Hersberger"
-year: 2025
+original_year: 2025
+updated_year: 2026
 license: "CC-BY-NC-ND-4.0"
 ---

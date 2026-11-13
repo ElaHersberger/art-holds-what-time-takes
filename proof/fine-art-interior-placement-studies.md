@@ -23,6 +23,11 @@ A richly layered interior demonstrates how nostalgic Christmas artwork can becom
 
 Deep green walls, warm wood, leather furnishings, and soft lighting establish a visual environment that complements the artwork's storytelling.
 
+![Christmas fine art displayed in a traditional living room — digital placement study](WALLART%20copy.jpg)
+
+*Digital room mockup illustrating artwork placement, color harmony, and atmosphere.*
+
+
 **Artistic considerations:** Color harmony, emotional atmosphere, focal-point placement, and proportion.
 
 ## Study 02 — Coastal Romance

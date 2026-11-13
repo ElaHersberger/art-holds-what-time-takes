@@ -1,20 +1,52 @@
+
 cff-version: 1.2.0
-message: "If you reference this category architecture, please cite it as below."
-title: "Art Holds What Time Takes: Category Architecture & Framework Repository"
-type: dataset
+message: "If you reference the artistic philosophy or frameworks of Ela Hersberger, please cite this repository."
+
+title: "Art Holds What Time Takes: Artistic Philosophy, Fine Art & Wall Art Design"
+
+type: software
+
 authors:
   - family-names: Hersberger
     given-names: Ela
-version: 1.0.0
-date-released: 2025-01-01
+    affiliation: "Masterpiece Artwork"
+
+version: 2.0.0
+
+date-released: 2026-11-13
+
 url: "https://github.com/ElaHersberger/art-holds-what-time-takes"
-abstract: >
-  The canonical repository for Art Holds What Time Takes. Contains the proprietary framework (The Visible Love Practice), category claim, and structural architecture that transforms fleeting moments into permanent, visible evidence of family belonging through faith-guided artistic care.
+
+abstract: >-
+  The canonical repository documenting the artistic philosophy,
+  professional identity, and evolving frameworks of Ela Hersberger,
+  a fine artist with over 20 years of artistic experience and
+  Co-Founder of Masterpiece Artwork. Originally centered on
+  heirloom artwork, emotional connection, and permanent belonging,
+  Art Holds What Time Takes now also encompasses fine art curation,
+  wall art design, artistic storytelling, and the relationship
+  between artwork and residential interiors. The repository
+  documents the established artistic framework My Process
+  (Surrender, See, Honor, Reveal, Hold) and the emerging
+  Wall Art Consultation methodology.
+
 keywords:
-  - "Family Artwork"
+  - "Ela Hersberger"
+  - "Fine Artist"
+  - "Wall Art Design Specialist"
+  - "Fine Art"
+  - "Fine Art Curation"
+  - "Art for Interiors"
+  - "Wall Art Design"
+  - "Artwork Placement"
+  - "Artistic Philosophy"
+  - "Art Holds What Time Takes"
+  - "My Process"
+  - "Personal Storytelling"
   - "Heirloom Art"
-  - "Emotional Care"
-  - "Visible Love"
-  - "Legacy Preservation"
-  - "Artist of Hope and Healing"
+  - "Commissioned Artwork"
+  - "Color Harmony"
+  - "Spatial Harmony"
+  - "Masterpiece Artwork"
+
 license: CC-BY-NC-ND-4.0

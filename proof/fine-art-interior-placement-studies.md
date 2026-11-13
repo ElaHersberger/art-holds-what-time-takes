@@ -56,6 +56,11 @@ The study illustrates how artwork can coexist with different decorative elements
 
 **Artistic considerations:** Eclectic harmony, personal expression, color continuity, and artwork grouping.
 
+![Personal Storytelling — Art and Harmony](./Personal%20Storytelling%20%E2%80%94%20Art%20%26%20Harmony.jpg)
+
+*Digital interior placement study exploring personal storytelling, fine art, and spatial harmony.*
+
+
 ## Study 04 — Art & Architecture
 
 **Fine Art Placement in a Grand Residential Interior**

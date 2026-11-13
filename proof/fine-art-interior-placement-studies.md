@@ -71,6 +71,11 @@ The study considers wall dimensions, sightlines, surrounding finishes, and the r
 
 **Artistic considerations:** Architectural proportion, viewing distance, placement, and spatial harmony.
 
+![Architectural Scale — Fine Art Placement](./Architectural%20Scale%20%E2%80%94%20Fine%20Art%20Placement.jpg)
+
+*Digital placement study exploring artwork scale, architectural proportions, and visual harmony in a residential interior.*
+
+
 ## Artistic Philosophy
 
 These studies reflect Ela Hersberger's developing approach to fine art and residential interiors:

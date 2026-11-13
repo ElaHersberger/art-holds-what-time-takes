@@ -5,6 +5,18 @@
 **Founder:** Ela Hersberger  
 **Status:** Founder-directed category evolution
 
+### November 2026 Updates
+
+Expanded Ela Hersberger's professional positioning as Fine Artist & Wall Art Design Specialist.
+
+- Updated artistic philosophy and professional identity.
+- Documented the emerging Wall Art Consultation framework.
+- Added four digital fine art interior placement studies.
+- Added documentation of the 2026 Excellence in Media Award recognizing the Don't Fear Me Foundation.
+- Updated repository citations, terminology, and supporting evidence.
+
+The original *Art Holds What Time Takes* philosophy remains central to the expanded practice.
+
 ### Professional Identity
 - Established current positioning: **Ela Hersberger — Fine Artist & Wall Art Design Specialist**.
 - Documented over 20 years of personal artistic experience.

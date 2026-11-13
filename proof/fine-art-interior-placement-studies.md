@@ -24,7 +24,7 @@ A richly layered interior demonstrates how nostalgic Christmas artwork can becom
 Deep green walls, warm wood, leather furnishings, and soft lighting establish a visual environment that complements the artwork's storytelling.
 
 
-![Christmas Fine Art Interior](./christmas-fine-art-interior.jpg)
+![Christmas Fine Art Interior](./Christmas%20fine%20art%20interior%20image.jpg)
 
 *Digital room mockup illustrating artwork placement, color harmony, and atmosphere.*
 

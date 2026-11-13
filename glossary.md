@@ -3,7 +3,7 @@
 
 **Founder:** Ela Hersberger  
 **Professional Identity:** Fine Artist & Wall Art Design Specialist  
-**Version:** 2.0  
+**Version:** 2.0.0 
 **Updated:** November 2026
 
 ---
@@ -91,6 +91,7 @@ Ela Hersberger's five-part artistic philosophy:
 Originally developed through meaningful family artwork, the framework emphasizes listening, recognition, dignity, artistic expression, and permanence.
 
 Its principles also inform Ela's expanding work in fine art curation and interiors.
+Historically documented as The Visible Love Practice, this framework retains its original five stages under the current name My Process.
 
 **Canonical source:** `frameworks/my-process.md`
 

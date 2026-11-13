@@ -120,6 +120,24 @@ The personal brand establishes expertise and artistic philosophy. Masterpiece Ar
 - `canonical_index.md` — Structural authority map
 - `governance.md` — Usage and canonical authority rules
 - `CHANGELOG.md` — Documented changes and category evolution
+- 
+## Fine Art in Interiors — Visual Portfolio
+
+Explore how fine art can transform the atmosphere, character, and visual harmony of residential interiors.
+
+These four visual placement studies demonstrate Ela Hersberger's artist-led approach to artwork selection, scale, color relationships, and personal storytelling.
+
+**[Explore the Fine Art Interior Placement Studies](proof/fine-art-interior-placement-studies.md)**
+
+The portfolio includes:
+
+- Nostalgia & Atmosphere
+- Coastal Romance
+- Personal Storytelling
+- Architectural Scale
+
+*The interiors are digital room mockups created for artwork visualization, not photographs of completed client installations.*
+
 
 ## Citation
 

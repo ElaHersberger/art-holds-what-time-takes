@@ -41,6 +41,11 @@ The relationship between the artwork, teal accents, natural light, and neutral f
 
 **Artistic considerations:** Artwork scale, color relationships, composition, and visual balance.
 
+![Coastal Romance — Fine Art as a Focal Point](./Coastal%20Romance%20%E2%80%94%20Fine%20Art%20as%20a%20Focal%20Point.jpg)
+
+*Digital interior placement study illustrating fine art, color harmony, and visual balance.*
+
+
 ## Study 03 — Personal Storytelling & Eclectic Harmony
 
 **Integrating Fine Art With Existing Furnishings**
